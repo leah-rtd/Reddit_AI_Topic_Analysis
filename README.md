@@ -21,5 +21,5 @@ The project covers how to retrieve relevant topics in Reddit's [AI & Ethics](htt
 
 ## Overview of the repo's organisation
 The R script covers scrapping the posts from the subreddit, preprocessing them and performing a sentiment analysis and topic modeling.
-The python script looks into using a Hugging Face transformer ([bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli)) and how this could improve our findings from the topic modeling.
+The Jupyter Notebook looks into using a Hugging Face transformer ([bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli)) and how this could improve our findings from the topic modeling.
 
